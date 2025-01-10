@@ -32,10 +32,5 @@ This repository contains a Python-based face detection project leveraging a pre-
 -Step8: To run it in local system, paste the Given code in pycharm or any other code Interpreter.
 ![2025-01-10 (10)](https://github.com/user-attachments/assets/9e78cf89-5b15-4c65-bf54-3ab234e459f5)
 
-
--Step9: Open the .zip file and copy the .h5 file and .txt file. And the save the files to the project path to Run the code.
-
--Step10: Open the terminal and install the required libraries for the project.
-
--Step11: Run the code and, Hence the facefinder+ works.
+-Step9: Run the code and, Hence the facefinder+ works.
 
